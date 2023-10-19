@@ -1,0 +1,8 @@
+1. visit to passport js website and then go to documentation 
+2. after that select sign-in with google then here we get google doc.
+$ npm install passport
+$ npm install passport-google-oidc :- yh google strategy ka jaga aya ga
+
+//client id :- 554903611431-jnf9kihmm2bt2a4ono7lrp6q1oakafbr.apps.googleusercontent.com
+
+//client secret :- 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
